@@ -1,1 +1,5 @@
-streamlit\npandas\nopenpyxl\npython-docx\nPyMuPDF
+streamlit
+pandas
+openpyxl
+python-docx
+pymupdf==1.22.3
